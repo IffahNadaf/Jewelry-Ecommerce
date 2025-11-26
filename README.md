@@ -90,7 +90,7 @@ Since this project uses PHP & MySQL, it cannot run directly on GitHub.
 Here’s how the website looks:
 
 ### Login Page
-![Login Page](images/login.png)
+![Login Page](images/loginpage.png)
 
 ### Home Page
 ![Home Page](images/homepage.png)
