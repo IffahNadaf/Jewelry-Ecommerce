@@ -84,6 +84,30 @@ CREATE TABLE users (
 5. Run the project in your browser: http://localhost/jewelry-ecommerce/
 
 ---
+## Live Preview
+
+Since this project uses PHP & MySQL, it cannot run directly on GitHub.  
+Here’s how the website looks:
+
+### Login Page
+![Login Page](images/login.png)
+
+### Home Page
+![Home Page](images/homepage.png)
+
+### Profile Page
+![Profile Page](images/profile.png)
+
+### Products Page
+![Products Page](images/products.png)
+
+### Cart Page
+![Cart Page](images/cart.png)
+
+### Checkout Page
+![Contact Page](images/contact.png)
+
+---
 
 ### 👤 Developer
 
