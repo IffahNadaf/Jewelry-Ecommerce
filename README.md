@@ -104,7 +104,7 @@ Here’s how the website looks:
 ### Cart Page
 ![Cart Page](images/cart.png)
 
-### Checkout Page
+### Contact Page
 ![Contact Page](images/contact.png)
 
 ---
